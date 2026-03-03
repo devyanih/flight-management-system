@@ -1,0 +1,17 @@
+# Maven
+target/
+bin/
+
+# IDE
+.idea/
+.settings/
+.project
+.classpath
+.factorypath
+
+# Logs
+*.log
+
+# Node
+node_modules/
+build/
